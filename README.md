@@ -1,7 +1,7 @@
-Hey, I'm Nehal!
- I am an optimistic curious, focussed ML & DS Engineer ✨
- Currently learning and working in ML & Data Analysis in Python.
- Looking to collaborate on facial recognition system
+## Hey, I'm Nehal!
+\nI am an optimistic curious, focussed ML & DS Engineer ✨
+Currently learning and working in ML & Data Analysis in Python.
+Looking to collaborate on facial recognition system
 - 
 
 <!---
